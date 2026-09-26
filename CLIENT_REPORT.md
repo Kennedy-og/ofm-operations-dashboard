@@ -1,6 +1,6 @@
 # Client Report: OFM Operations Dashboard
 
-> **[🚀 View Live Dashboard](https://ofm-operations-dashboard-fhmbnnn7lhbftrgxjhcur7.streamlit.app/)**
+> **[View Live Dashboard](https://ofm-operations-dashboard-fhmbnnn7lhbftrgxjhcur7.streamlit.app/)**
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ The system allows the agency to see what is happening across chatters, including
 
 The dashboard is designed to make daily operations easier to monitor, review, and manage.
 
-**[🚀 Open the Live Dashboard](https://ofm-operations-dashboard-fhmbnnn7lhbftrgxjhcur7.streamlit.app/)**
+**[Open the Live Dashboard](https://ofm-operations-dashboard-fhmbnnn7lhbftrgxjhcur7.streamlit.app/)**
 
 ## Purpose of the Dashboard
 
